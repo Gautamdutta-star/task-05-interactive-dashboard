@@ -6,6 +6,8 @@ An interactive executive business dashboard built using **Python, Pandas, Stream
 
 The dashboard provides interactive filtering, KPI cards, trend analysis, profitability insights, product performance analysis, and detailed data exploration.
 
+Live = "https://task-05-interactive-dashboard-kggxg5b4p8kweaovaohvmm.streamlit.app/"
+
 ## 🎯 Objectives
 
 - Create an interactive executive dashboard
