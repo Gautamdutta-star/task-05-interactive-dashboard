@@ -113,7 +113,7 @@ The PDF contains the exported dashboard layout, executive KPI cards, interactive
 
 ## 👨‍💻 Author
 
-**Gautam Dutta**
+**Gautam Kumar Dutta**
 
 B.Tech Computer Science & Engineering
 
